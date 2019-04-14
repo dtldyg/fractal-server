@@ -1,4 +1,9 @@
 .idea/*
 go.mod
 go.sum
+src/fractal.exe
 src/fractal
+fractal.exe
+fractal
+data/data.json
+res/pic.png
