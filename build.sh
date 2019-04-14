@@ -1,5 +1,5 @@
 echo "building..."
 
-go build src/main.go -o fractal
+go build -o fractal src/main.go
 
 echo "done"
