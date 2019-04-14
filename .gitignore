@@ -1,2 +1,4 @@
 .idea/*
 go.mod
+go.sum
+src/fractal
